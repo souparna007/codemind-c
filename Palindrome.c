@@ -12,10 +12,10 @@ int main()
     }
     if(c==sum)
     {
-        printf("Palindrome");
+        printf("True");
     }
     else
     {
-        printf("Not Palindrome");
+        printf("False");
     }
 }
